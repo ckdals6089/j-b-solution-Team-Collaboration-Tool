@@ -24,7 +24,7 @@
     "express": "~4.16.0",
     "express-session": "^1.16.2",
     "http-errors": "~1.6.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.5.1",
     "mongoclient": "^1.0.3",
     "mongodb": "^3.3.2",
